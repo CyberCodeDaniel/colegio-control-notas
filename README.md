@@ -37,6 +37,33 @@ Este proyecto es una aplicación de consola en Java diseñada para gestionar el 
   - **modelos:** Clases de datos para `Student`, `Subject`, y `enumeraciones`.
   - **servicios:** Clases de servicio para manejar lógica de negocio y cálculos de promedios.
 - **src/test/java:** Contiene las pruebas unitarias de las clases `FileService`, `StudentService`, y `AverageServiceImp`.
+```
+colegio-control-notas
+│
+├── pom.xml                      # Archivo de configuración de Maven
+└── src
+    ├── main
+    │   ├── java
+    │   │   └── us
+    │   │       └── danielmunoz
+    │   │           └── colegio
+    │   │               ├── models            # Clases relacionadas con los modelos de datos
+    │   │               ├── services          # Clases de lógica de negocio
+    │   │               ├── views             # Clases para las interfaces de usuario
+    │   │               └── utils             # Clases de utilidades
+    │   └── resources                         # Archivos de configuración y recursos
+    └── test
+        ├── java
+        │   └── us
+        │       └── danielmunoz
+        │           └── colegio
+        │               ├── models            # Pruebas para los modelos
+        │               ├── services          # Pruebas para los servicios
+        │               ├── views             # Pruebas para las vistas
+        │               └── utils             # Pruebas para las utilidades
+        └── resources                         # Recursos de prueba
+
+```
 
 ## Uso
 
