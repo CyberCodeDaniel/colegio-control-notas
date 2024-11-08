@@ -97,3 +97,5 @@ Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, realiza un fo
 - **Licencia del Proyecto:** Informa sobre los derechos de uso del proyecto.
 
 Este proyecto está licenciado bajo la [MIT License](LICENSE).
+
+Autor: Daniel Muñoz - Noviembre 2024
